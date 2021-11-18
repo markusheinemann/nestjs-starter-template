@@ -12,3 +12,4 @@ NestJs applications.
 - Adjust eslint/prettier settings
   - set max line length to 100
 - SwaggerUi setup
+- Preinstalled [faker.js](https://github.com/marak/Faker.js/) to generate mock data in test
